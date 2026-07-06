@@ -1,7 +1,7 @@
 # Chu Đoàn Phương Chi – Portfolio
 
-Trang portfolio cá nhân (song ngữ Việt – Anh) của học sinh **Chu Đoàn Phương Chi** (Học sinh THPT · Hà Nội).
+Trang portfolio cá nhân (song ngữ Việt – Anh, thiết kế riêng) của học sinh **Chu Đoàn Phương Chi**.
 
-Bilingual (Vietnamese/English) personal portfolio of **Chu Đoàn Phương Chi**.
+Bilingual (VI/EN) personal portfolio with a unique custom design.
 
 Mở `index.html` hoặc bật GitHub Pages (Settings → Pages → Deploy from branch `main`) để xem trang.
